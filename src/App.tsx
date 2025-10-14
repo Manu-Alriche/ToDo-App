@@ -81,9 +81,7 @@ function App() {
   return (
     <div className="flex justify-center">
       <div className="w-2/3 flex flex-col gap64 my-15 bg-basse-300 p-5 rounded-2xl">
-        <h1 className="text-5xl text-center font-bold mb-15 text-violet-600">
-          ToDo App
-        </h1>
+        <h1 className="text-5xl text-center font-bold mb-15">ToDo App</h1>
         <div className="flex gap-4">
           <input
             type="text"
