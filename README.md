@@ -25,4 +25,3 @@ Les données sont **stockées localement** via `localStorage`, ce qui garantit l
 - 🔣 **Lucide React Icons**
 - 🧠 **LocalStorage (sauvegarde des données côté client)**
 
-[!]
